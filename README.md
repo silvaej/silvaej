@@ -39,8 +39,8 @@
 * [Internet Speed Data Collection](https://github.com/silvaej/icf) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/CLI-grey" height="10em"/>
 * [Rock Paper Scissors (TBBT)](https://github.com/silvaej/rpsext) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/> <img src="https://img.shields.io/badge/Algorithms-orange" height="10em"/>
 * [# Wearamask](https://github.com/silvaej/wam) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/GUI-red" height="10em"/> <img src="https://img.shields.io/badge/Deep Learning-yellow" height="10em"/> <img src="https://img.shields.io/badge/Research-black" height="10em"/>
-* [Bus Terminal Booking System](https://github.com/ldmagpantay/DSA-Final-Project) <img src="https://img.shields.io/badge/MERN-cyan" height="10em"/>
-* [Lakapati API](https://github.com/silvaej/lakapatiAPI) <img src="https://img.shields.io/badge/MERN-cyan" height="10em"/>
+* [Bus Terminal Booking System](https://github.com/ldmagpantay/DSA-Final-Project) <img src="https://img.shields.io/badge/MEAN-magenta" height="10em"/> <img src="https://img.shields.io/badge/Javascript-yellow" height="10em"/> <img src="https://img.shields.io/badge/Algorithms-orange" height="10em"/>
+* [Lakapati API](https://github.com/silvaej/lakapatiAPI) <img src="https://img.shields.io/badge/MERN-cyan" height="10em"/> <img src="https://img.shields.io/badge/Javascript-yellow" height="10em"/>
 
 ## 📬How to reach me:
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
