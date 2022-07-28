@@ -23,9 +23,9 @@
 ## 🗃️ My Projects
 * [Four in a Row Game](https://github.com/silvaej/4iar) [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/OOP-blue" height="10em"/>]()
 * [Hindu Arabic to Roman Numerals Converter](https://github.com/silvaej/atrnc) [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/GUI-red" height="10em"/>]()
-* [Internet Speed Data Collection]() [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/CLI-grey" height="10em"/>]()
-* [Rock Paper Scissors (TBBT)]() [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]()
-* [# Wearamask]() [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/GUI-red" height="10em"/>]()
+* [Internet Speed Data Collection](https://github.com/silvaej/icf) [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/CLI-grey" height="10em"/>]()
+* [Rock Paper Scissors (TBBT)](https://github.com/silvaej/rpsext) [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]()
+* [# Wearamask](https://github.com/silvaej/wam) [<img src="https://img.shields.io/badge/PYTHON-green" height="10em"/>]() [<img src="https://img.shields.io/badge/GUI-red" height="10em"/>]()
 
 ## 📬How to reach me:
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
