@@ -7,18 +7,18 @@
 - 📂 You can access all of my open-source project here at GitHub
 
 ## ✨My Research & Intership Experiences
-1. 💻 **WEB DEVELOPER** at [CTI](http://cti.batstate-u.edu.ph)
+1. 📉 **DATA SCIENCE INTERN** at STEERHub <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
+    - 📅 February - May 2022
+
+<br>
+
+2. 💻 **WEB DEVELOPER** at [CTI](http://cti.batstate-u.edu.ph) <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
     - 📅 February - May 2022
     -
 
 <br>
 
-2. 📉 **DATA SCIENCE INTERN** at STEERHub
-    - 📅 February - May 2022
-
-<br>
-
-3. 📖 **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning
+3. 📖 **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Research-pink" height="10em"/>
 
 ## 🗃️ My Projects
 * [Four in a Row Game](https://github.com/silvaej/4iar) <img src="https://img.shields.io/badge/Python-green" height="10em"/><img src="https://img.shields.io/badge/OOP-blue" height="10em"/>
