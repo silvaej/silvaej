@@ -14,6 +14,9 @@
 **Science, Technology, Engineering, and Environment Research Hub (STEER Hub)**
 
 *02/22 - 05/22*
+- Generate business insights from a given dataset using **Pandas** library.
+- Perform data sorting, filtering, slicing, and dealing with duplicates, missing, and inconsistent data using **Pandas** and **Numpy** libraries.
+- Perform data visualization using **Matplotlib** and **Seaborn** libraries.
 - Collect data from different social media platforms regarding Batangas State University using **API** and **Web-scraping** techniques with **Python**.
 - Dashboarding using **PowerBI**
 
@@ -23,8 +26,8 @@
 *02/22 - 05/22*
 - Help CTI in maintaining and building webpages. 
 - Conceptualized a web applications based on a specific business requirement.
-- Build a certificate generation and verification using MERN stack.
-- Manage workflow with team of 3 web developer interns using GitHub.
+- Build a certificate generation and verification using **MERN** stack.
+- Manage workflow with team of 3 web developer interns using **GitHub**.
 - Wrote the entire backend code, helped establishing the frontend, and their connections.
 
 
