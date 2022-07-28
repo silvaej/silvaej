@@ -31,7 +31,13 @@
 - Wrote the entire backend code, helped establishing the frontend, and their connections.
 
 
-### 3. **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Thesis-gray" height="10em"/> 
+### 3. **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Thesis-gray" height="10em"/>
+*01/21 - 05/22*
+- An android application that transform aerial photos to a map that shows the 
+-
+-
+
+<sub><sup>Read abstract [here]().</sup></sub>
 
 ## 🗃️ My Projects
 * [Four in a Row Game](https://github.com/silvaej/4iar) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/>
