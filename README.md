@@ -10,14 +10,16 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25em"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25em"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25em"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25em">
 
 ## ✨My Research & Internship Experiences
-1. **DATA SCIENCE INTERN** at STEERHub <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
-    - February - May 2022
+### 1. **DATA SCIENCE INTERN** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
+**Science, Technology, Engineering, and Environment Research Hub (STEER Hub)**
+*February - May 2022*
 
 <br>
 
-2. **WEB DEVELOPER** at [CTI](http://cti.batstate-u.edu.ph) <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
-    - February - May 2022
-    -
+### 2. **WEB DEVELOPER** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
+**[Center for Technopreneurship and Innovation](http://cti.batstate-u.edu.ph)**
+*February - May 2022*
+
 
 <br>
 
