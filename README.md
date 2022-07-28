@@ -6,7 +6,8 @@
 - 🎓 Bachelor of Science in Computer Engineering Class of **2022** at [Batangas State University, Alangilan Campus](batstate-u.edu.ph)
 - 📂 You can access all of my open-source project here at GitHub
 
-## 🪄 Skills
+## 🪄 Languages & Tools
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25em">
 
 ## ✨My Research & Intership Experiences
 1. 📉 **DATA SCIENCE INTERN** at STEERHub <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
