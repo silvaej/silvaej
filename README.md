@@ -19,6 +19,14 @@
 <br>
 
 3. 📖 **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning
+
+## 🗃️ My Projects
+* [Four in a Row Game]()
+* [Hindu Arabic to Roman Numerals Converter]()
+* [Internet Speed Data Collection]()
+* [Rock Paper Scissors (TBBT)]()
+* [# Wearamask]()
+
 ## 📬How to reach me:
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
 
