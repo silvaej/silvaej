@@ -1,3 +1,6 @@
-### Hi there, I am Efren Q. Silva, Jr. 👋
+### Hello, I am Efren - aka EJ 👋
+
+## I am a Gamer, Developer, and AI Enthusiast
+🎮 💻 🤖
 
 # Currently editing this profile page!
