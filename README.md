@@ -1,6 +1,7 @@
-### Hello, I am Efren - aka EJ 👋
+### Hi there 👋
 
-## I am a Gamer, Developer, and AI Enthusiast
-🎮 💻 🤖
+## :book: About Me
+
+
 
 # Currently editing this profile page!
