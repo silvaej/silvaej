@@ -11,3 +11,5 @@
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
 
 [<img src="linkedin.png" height="40em" align="center" alt="Follow EJ on LinkedIn"/>](https://linkedin.com/in/ejsilva) [<img src="twitter.png" height="40em" align="center" alt="Follow EJ on Twitter"/>](https://twitter.com/zlbss)
+
+<sub><sup>This profile page is still under development.</sup></sub>
