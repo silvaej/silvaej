@@ -13,14 +13,14 @@
 ### 1. **DATA SCIENCE INTERN** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
 **Science, Technology, Engineering, and Environment Research Hub (STEER Hub)**
 
-*February - May 2022*
+*02/22 - 05/22*
 
 <br>
 
 ### 2. **WEB DEVELOPER** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
 **[Center for Technopreneurship and Innovation](http://cti.batstate-u.edu.ph)**
 
-*February - May 2022*
+*02/22 - 05/22*
 
 
 <br>
