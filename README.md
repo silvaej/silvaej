@@ -24,17 +24,17 @@
 **[Center for Technopreneurship and Innovation](http://cti.batstate-u.edu.ph)**
 
 *02/22 - 05/22*
-- Help CTI in maintaining and building webpages. 
-- Conceptualized a web applications based on a specific business requirement.
+- Help CTI in maintaining and building web pages. 
+- Conceptualized web applications based on a specific business requirement.
 - Build a certificate generation and verification using **MERN** stack.
-- Manage workflow with team of 3 web developer interns using **GitHub**.
+- Manage workflow with a team of 3 web developer interns using **GitHub**.
 - Wrote the entire backend code, helped establishing the frontend, and their connections.
 
 
 ### 3. **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Thesis-gray" height="10em"/>
 *01/21 - 05/22*
 - An android application that transform aerial photos to a map that shows the 
--
+- 
 -
 
 <sub><sup>Read abstract [here]().</sup></sub>
