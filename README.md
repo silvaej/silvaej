@@ -38,6 +38,6 @@
 ## 📬How to reach me:
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
 
-[<img src="linkedin.png" height="30em" align="center" alt="Follow EJ on LinkedIn"/>](www.linkedin.com/in/silvaej) [<img src="twitter.png" height="30em" align="center" alt="Follow EJ on Twitter"/>](https://twitter.com/zlbss)
+[<img src="linkedin.png" height="30em" align="center" alt="Follow EJ on LinkedIn"/>](https://linkedin.com/in/silvaej) [<img src="twitter.png" height="30em" align="center" alt="Follow EJ on Twitter"/>](https://twitter.com/zlbss)
 
 <sub><sup>This profile page is still under development.</sup></sub>
