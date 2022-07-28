@@ -18,7 +18,7 @@
 
 <br>
 
-3. 📖 **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Research-gold" height="10em"/>
+3. 📖 **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Research-black" height="10em"/>
 
 ## 🗃️ My Projects
 * [Four in a Row Game](https://github.com/silvaej/4iar) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/>
