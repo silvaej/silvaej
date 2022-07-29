@@ -9,36 +9,6 @@
 ## 🪄 Languages & Tools
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25em"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25em"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25em"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25em">
 
-## ✨My Research & Internship Experiences
-### 1. **DATA SCIENCE INTERN** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
-**Science, Technology, Engineering, and Environment Research Hub (STEER Hub)**
-
-*02/22 - 05/22*
-- Generate business insights from a given dataset using **Pandas** library.
-- Perform data sorting, filtering, slicing, and dealing with duplicates, missing, and inconsistent data using **Pandas** and **Numpy** libraries.
-- Perform data visualization using **Matplotlib** and **Seaborn** libraries.
-- Collect data from different social media platforms regarding Batangas State University using **API** and **Web-scraping** techniques with **Python**.
-- Dashboarding using **PowerBI**
-
-### 2. **WEB DEVELOPER** <img src="https://img.shields.io/badge/OJT-purple" height="10em"/>
-**[Center for Technopreneurship and Innovation](http://cti.batstate-u.edu.ph)**
-
-*02/22 - 05/22*
-- Help CTI in maintaining and building web pages. 
-- Conceptualized web applications based on a specific business requirement.
-- Build a certificate generation and verification using **MERN** stack.
-- Manage workflow with a team of 3 web developer interns using **GitHub**.
-- Wrote the entire backend code, helped establishing the frontend, and their connections.
-
-
-### 3. **LAKAPATI:** an early-detection system for cassava diseases using remote sensing and deep learning <img src="https://img.shields.io/badge/Thesis-gray" height="10em"/>
-*01/21 - 05/22*
-- An android application that transform aerial photos to a map that shows the 
-- 
--
-
-<sub><sup>Read abstract [here]().</sup></sub>
-
 ## 🗃️ My Projects
 * [Four in a Row Game](https://github.com/silvaej/4iar) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/>
 * [Hindu Arabic to Roman Numerals Converter](https://github.com/silvaej/atrnc) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/GUI-red" height="10em"/>
