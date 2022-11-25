@@ -9,14 +9,8 @@
 ## 🪄 Languages & Tools
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25em"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25em"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25em"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25em"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25em">
 
-## 🗃️ My Projects
-* [Four in a Row Game](https://github.com/silvaej/4iar) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/>
-* [Hindu Arabic to Roman Numerals Converter](https://github.com/silvaej/atrnc) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/GUI-red" height="10em"/>
-* [Internet Speed Data Collection](https://github.com/silvaej/icf) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/CLI-grey" height="10em"/>
-* [Rock Paper Scissors (TBBT)](https://github.com/silvaej/rpsext) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/OOP-blue" height="10em"/> <img src="https://img.shields.io/badge/Algorithms-orange" height="10em"/>
-* [# Wearamask](https://github.com/silvaej/wam) <img src="https://img.shields.io/badge/Python-green" height="10em"/> <img src="https://img.shields.io/badge/GUI-red" height="10em"/> <img src="https://img.shields.io/badge/Deep Learning-yellow" height="10em"/> <img src="https://img.shields.io/badge/Research-black" height="10em"/>
-* [Bus Terminal Booking System](https://github.com/ldmagpantay/DSA-Final-Project) <img src="https://img.shields.io/badge/MEAN-magenta" height="10em"/> <img src="https://img.shields.io/badge/Javascript-yellow" height="10em"/> <img src="https://img.shields.io/badge/Algorithms-orange" height="10em"/>
-* [Lakapati API](https://github.com/silvaej/lakapatiAPI) <img src="https://img.shields.io/badge/MERN-cyan" height="10em"/> <img src="https://img.shields.io/badge/Javascript-yellow" height="10em"/>
+## 🗃️ Recent Projects
+* [Contact Management System API (CLEAN)](https://github.com/silvaej/cms-ts) <img src="https://img.shields.io/badge/MERN-cyan" height="10em"/> <img src="https://img.shields.io/badge/TypeScript-blue" height="10em"/> <img src="https://img.shields.io/badge/CLEAN-magenta" height="10em"/>
 
 ## 📬How to reach me:
 You can reach me using my email at my GitHub Profile. Follow me on my socials!
